@@ -15,7 +15,7 @@ Este proyecto contiene un estudio realizado sobre un dataset de Kaggle que anali
 
 El dataset original se obtuvo de Kaggle. Puedes encontrarlo en el siguiente enlace:
 
-[Dataset en Kaggle](https://www.kaggle.com/) *([Inserta aquí el enlace exacto si lo tienes](https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance))*
+[Dataset en Kaggle](https://www.kaggle.com/) *((https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance))*
 
 ---
 
