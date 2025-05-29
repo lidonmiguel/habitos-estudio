@@ -36,8 +36,3 @@ El dataset original se obtuvo de Kaggle. Puedes encontrarlo en el siguiente enla
 
 - Python 3.x
 - Jupyter Notebook o JupyterLab
-- Librerías usadas (como pandas, matplotlib, seaborn, etc.)  
-  Puedes instalar las dependencias con:
-
-  ```bash
-  pip install -r requirements.txt
