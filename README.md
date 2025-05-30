@@ -1,6 +1,6 @@
 # Análisis de Hábitos de Estudio y su Influencia en la Nota Final
 
-Este proyecto contiene un estudio realizado sobre un dataset de Kaggle que analiza los hábitos de estudio de los estudiantes y cómo estos influyen en la nota final obtenida. El análisis se presenta en un notebook de Jupyter, junto con una versión HTML para una visualización más amigable.
+Este proyecto contiene un estudio realizado sobre un dataset de Kaggle que analiza los hábitos de estudio de los estudiantes y cómo estos influyen en la nota final obtenida. El análisis se presenta en un notebook de Jupyter.
 
 ## Contenidos
 
@@ -22,9 +22,6 @@ El dataset original se obtuvo de Kaggle. Puedes encontrarlo en el siguiente enla
 
 - **Descargar y abrir los notebooks localmente**  
   Descarga los archivos `.ipynb` y ábrelos con Jupyter Notebook o JupyterLab para ejecutar y modificar el código.
-
-- **Visualizar el análisis sin ejecutar código**  
-  Abre el archivo `.html` en cualquier navegador para una visualización interactiva y limpia.
 
 - **Ejecutar el script de predicción**  
   Puedes usar `Predicción_Rendimiento.py` para hacer predicciones automáticas sobre la nota final a partir de un conjunto de hábitos.
